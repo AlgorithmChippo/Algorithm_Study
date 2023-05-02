@@ -1,3 +1,3 @@
 # [Algorithm Study Wiki](https://github.com/AlgorithmChippo/Algorithm_Study/wiki)
-* [바킹독의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2)
-* [Repository](https://github.com/encrypted-def/basic-algo-lecture)
+* [혜지의 레포에용](https://github.com/encrypted-def/basic-algo-lecture)
+* [💪🐱‍👤 현습이의 레포에용](https://github.com/soup1997/Algorithm)
